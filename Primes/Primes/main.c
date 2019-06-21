@@ -1,7 +1,7 @@
 //
 //  main.c
 //  Primes
-//
+// in git
 //  Created by John Makin on 18/06/2019.
 //  Copyright © 2019 John Makin. All rights reserved.
 //
